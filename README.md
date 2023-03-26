@@ -6,15 +6,11 @@
 
 In this project, we can search GitHub users by their username. The search query returns the user's profile information along with the list of repositories present in the profile.
 
-Live Demo : https:/dheersrivasatav.github.io/Github-Profile-Finder/
+Live Demo : https://dheersrivastav.github.io/github-finder/
 
 ## Features :eyes:
 ### Home Page
-![alt text](Images/1.png)
-### User Search
-![alt text](Images/2.png)
-### Search Result
-![alt text](Images/3.png)
+
 ### User Not Found
 ![alt text](Images/4.png)
 
@@ -27,11 +23,11 @@ Live Demo : https:/dheersrivasatav.github.io/Github-Profile-Finder/
 + BootStrap
 
 
-## Developer :woman_technologist:
+## Developer :man_technologist:
 <table>
 <td>
 
-Mahima Khatri
+DheerSrivastav
 
 <p align="center">
 <img src = "https://avatars.githubusercontent.com/u/77387745?v=4"  height="120"
